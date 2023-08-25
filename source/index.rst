@@ -7,9 +7,10 @@ Welcome to 「Python Boot Campの紹介 - あなたの街で開催しません�
 ========================================================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :glob:
 
+   *
 
 
 Indices and tables
