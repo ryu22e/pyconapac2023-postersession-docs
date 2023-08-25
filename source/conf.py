@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '「Python Boot Campの紹介 - あなたの街で開催しませんか?」資料'
+project = 'Python Boot Campの紹介 - あなたの街で開催しませんか?'
 copyright = '2023, Ryuji Tsutsui'
 author = 'Ryuji Tsutsui'
 release = '1'
