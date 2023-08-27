@@ -39,7 +39,7 @@ jobs:
       - run: pip install -r requirements.txt
       - run: make html
       - run: make -e SPHINXOPTS="-D language='en'" BUILDDIR="build/_en" html
-      - run: mv build/_en/html build/en
+      - run: mv build/_en/html build/html/en
       - run: rm -rf build/_en
       - name: Setup Pages
         uses: actions/configure-pages@v3
