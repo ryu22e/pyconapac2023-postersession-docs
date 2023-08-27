@@ -4,12 +4,11 @@
 # - あなたの街で開催しませんか? package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python Boot Campの紹介 - あなたの街で開催しませんか? \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-25 20:06+0900\n"
+"POT-Creation-Date: 2023-08-28 17:19+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -24,19 +23,183 @@ msgstr ""
 msgid "Python Boot Campとは何か？"
 msgstr "What is the Python Boot Camp?"
 
-#: ../../source/about.md:3
+#: ../../source/about.md:2
 msgid "Python Boot Camp（略称: PyCamp）は以下の目的で活動するPythonチュートリアルイベントです。"
-msgstr "Python Boot Camp, or PyCamp for short, is a Python tutorial event that aims to"
+msgstr ""
+"Python Boot Camp, or PyCamp for short, is a Python tutorial event that "
+"aims to"
 
-#: ../../source/about.md:5
+#: ../../source/about.md:4
 msgid "日本各地でのPythonを盛りあげたい"
 msgstr "Boosting Python around Japan"
 
-#: ../../source/about.md:6
+#: ../../source/about.md:5
 msgid "各地のPythonistaとの連携強化"
 msgstr "Strengthen collaboration with Pythonistas in various locations"
 
-#: ../../source/about.md:7
+#: ../../source/about.md:6
 msgid "ゆくゆくは地域PyConの実施"
 msgstr "Eventually implement a regional PyCon"
+
+#: ../../source/about.md:8
+msgid "イベントの背景"
+msgstr "Event Background"
+
+#: ../../source/about.md:9
+msgid ""
+"PyCon JPでは毎年チュートリアルを開催していますが、東京で開催しているため、地方在住の人は参加しにくい問題がありました。 "
+"そこで、日本全国の人たちにPythonについて学ぶ機会を提供しようということで、「Python Boot Camp」が始まりました。"
+msgstr ""
+"PyCon JP holds a tutorial every year, but since it is held in Tokyo, "
+"there was a problem that it was difficult for people living in rural "
+"areas to participate.This is why we started the \"Python Boot Camp\" to "
+"provide opportunities for people all over Japan to learn about Python."
+
+#: ../../source/about.md:12
+msgid "チュートリアルはどんな内容？"
+msgstr "Tutorial Content"
+
+#: ../../source/about.md:13
+msgid ""
+"13:00〜17:00の間、Pythonの基礎を学びます。実際にコードを書いて学習の成果を実感してもらえるようにしています。 "
+"また、この講義だけで学習が終わらないように、次のステップに進むための情報収集方法についても紹介します。"
+msgstr ""
+"From 13:00 to 17:00, you will learn the basics of Python. We actually We "
+"actually write code so that they can feel the results of their "
+"learning.To ensure that your learning does not end with this lecture, we "
+"will also show you how to gather information to take the next step."
+
+#: ../../source/about.md:21
+msgid "チュートリアルの様子"
+msgstr "Tutorials"
+
+#: ../../source/about.md:24
+msgid "テキストは以下に公開しています。"
+msgstr "The text is published below."
+
+#: ../../source/about.md:26
+msgid "<https://pycamp.pycon.jp/textbook/index.html>"
+msgstr ""
+
+#: ../../source/about.md:28
+msgid "テキストのライセンスはCC-BY 3.0です。改善案があれば以下GitHubリポジトリにPRを送ってください！"
+msgstr ""
+"The license of the text is CC-BY 3.0. If you have any suggestions for "
+"improvement, please send PR to the GitHub repository below!"
+
+#: ../../source/about.md:30
+msgid "<https://github.com/pyconjp/pycamp.pycon.jp>"
+msgstr ""
+
+#: ../../source/about.md:32
+msgid "参加者アンケートの結果"
+msgstr "Results of Participant Survey"
+
+#: ../../source/about.md:34
+msgid "参加登録時のアンケートを見ると、Python Boot Campの参加者は60％の参加者がPythonをまったく使ったことがない人たちです。"
+msgstr ""
+"According to the registration questionnaire, 60% of Python Boot Camp "
+"participants have never used Python at all."
+
+#: ../../source/about.md:40
+msgid "Python Boot Camp参加者アンケート「Python経験について」"
+msgstr "Python Boot Camp Participant Questionnaire \"About Python Experience\""
+
+#: ../../source/about.md:42
+msgid "開催後のアンケートを見ると、ほとんどの参加者がチュートリアルに満足していることがわかります。"
+msgstr ""
+"The post-event surveys indicate that most participants were satisfied "
+"with the tutorials."
+
+#: ../../source/about.md:48
+msgid "Python Boot Camp参加者アンケート「チュートリアルの内容について」"
+msgstr "Python Boot Camp Participant Questionnaire \"About the tutorial content\""
+
+#: ../../source/about.md:50
+msgid "Python Boot Campに関わる人たち"
+msgstr "People involved in the Python Boot Camp"
+
+#: ../../source/about.md:51
+msgid ""
+"現地スタッフ: イベントの主催者。「自分の街でPython Boot "
+"Campを開催したい」と思った人が[専用フォーム](https://docs.google.com/forms/d/e"
+"/1FAIpQLSedZskvqmwH_cvwOZecI10PA3KX5d-Ui-"
+"74aZro_cvCcTZLMw/viewform)から申し込むことで現地スタッフになれます"
+msgstr ""
+"Local Staff: Organizers of the event.If you are interested in organizing "
+"a Python Boot Camp in your city, you can apply to become a local staff "
+"member by filling out the application "
+"[form](https://docs.google.com/forms/d/e"
+"/1FAIpQLSedZskvqmwH_cvwOZecI10PA3KX5d-Ui-74aZro_cvCcTZLMw/viewform)."
+
+#: ../../source/about.md:52
+msgid "コアスタッフ: 現地スタッフのサポートをするスタッフ"
+msgstr "Core Staff: Staff who provide support to local staff"
+
+#: ../../source/about.md:53
+msgid "講師: 当日の講義の説明、進行をする人。一般社団法人PyCon JP Associationから派遣します"
+msgstr ""
+"Lecturer: A person who explains and facilitates the day's lectures. PyCon"
+" JP Association will dispatch a lecturer."
+
+#: ../../source/about.md:54
+msgid "TA: イベント当日に不明点がある参加者をサポートする人"
+msgstr ""
+"TA: Someone who assists participants who have questions on the day of the"
+" event."
+
+#: ../../source/about.md:56
+msgid "Python Boot Camp開催後に発足したPythonコミュニティ"
+msgstr "Python community established after the Python Boot Camp"
+
+#: ../../source/about.md:58
+msgid "[栃木Pythonの会](https://tochipy.connpass.com/)（栃木）"
+msgstr "[栃木Pythonの会(Tochigi Python no kai)](https://tochipy.connpass.com/)（Tochigi）"
+
+#: ../../source/about.md:59
+msgid "[すごい広島 IT初心者の会](https://great-h.connpass.com/)（広島）"
+msgstr "[すごい広島 IT初心者の会(Sugoi Hiroshima IT shoshinsha no kai)](https://great-h.connpass.com/)（Hiroshima）"
+
+#: ../../source/about.md:60
+msgid "[PyCon Kyushu](https://kyushu.pycon.jp/2024/)（九州全域）"
+msgstr "[PyCon Kyushu](https://kyushu.pycon.jp/2024/)（All of Kyushu）"
+
+#: ../../source/about.md:61
+msgid "[PyCon mini Kumamoto](http://kumamoto.pycon.jp/)（熊本）"
+msgstr "[PyCon mini Kumamoto](http://kumamoto.pycon.jp/)（Kumamoto）"
+
+#: ../../source/about.md:62
+msgid "[shingen.py](https://shingenpy.connpass.com/)（山梨）"
+msgstr "[shingen.py](https://shingenpy.connpass.com/)（Yamanashi）"
+
+#: ../../source/about.md:63
+msgid "[大阪Pythonの会](https://osakapython.connpass.com/)(大阪）"
+msgstr "[大阪Pythonの会(Osaka Python no kai)](https://osakapython.connpass.com/)(Osaka）"
+
+#: ../../source/about.md:64
+msgid "[Unagi.py](https://unagi-py.connpass.com/)（静岡）"
+msgstr "[Unagi.py](https://unagi-py.connpass.com/)（Shizuoka）"
+
+#: ../../source/about.md:65
+msgid "[UDONPy](https://udonpy.connpass.com/)（香川）"
+msgstr "[UDONPy](https://udonpy.connpass.com/)（Kagawa）"
+
+#: ../../source/about.md:66
+msgid "[PyEhime](https://pyehime.connpass.com/)（愛媛）"
+msgstr "[PyEhime](https://pyehime.connpass.com/)（Ehime）"
+
+#: ../../source/about.md:67
+msgid "[飛騨高山Pythonの会](https://hida-python.connpass.com/)（岐阜）"
+msgstr "[飛騨高山Pythonの会(Hida Takayama Python no kai)](https://hida-python.connpass.com/)（Gifu）"
+
+#: ../../source/about.md:68
+msgid "[Shonan.py](https://shonan-py.connpass.com/)（神奈川）"
+msgstr "[Shonan.py](https://shonan-py.connpass.com/)（Kanagawa）"
+
+#~ msgid ""
+#~ "The license of the text is CC-"
+#~ "BY 3.0. If you have any "
+#~ "suggestions for improvement, please send "
+#~ "PR to the GitHub repository below!"
+#~ msgstr ""
 
