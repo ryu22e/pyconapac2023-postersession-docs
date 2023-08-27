@@ -32,3 +32,6 @@ html_static_path = ['_static']
 html_extra_path = [
     "robots.txt",
 ]
+
+locale_dirs = ['locale/']
+gettext_compact = False
