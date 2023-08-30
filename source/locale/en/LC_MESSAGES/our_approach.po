@@ -4,12 +4,11 @@
 # - あなたの街で開催しませんか? package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python Boot Campの紹介 - あなたの街で開催しませんか? \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-28 17:19+0900\n"
+"POT-Creation-Date: 2023-08-29 20:19+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -22,25 +21,307 @@ msgstr ""
 
 #: ../../source/our_approach.md:1
 msgid "どんな工夫をしてきたか"
-msgstr ""
+msgstr "What innovations have you made?"
 
 #: ../../source/our_approach.md:2
 msgid "開催回ごとに担当コアスタッフがサポート"
-msgstr ""
+msgstr "Support from core staff in charge of each even"
 
 #: ../../source/our_approach.md:3
-msgid "JIRAでタスクを管理"
+msgid ""
+"Python Boot Campでは開催が決まると現地スタッフをサポートする担当コアスタッフが必ず一人付きます。 "
+"現地スタッフはイベントの準備や開催時に困ったことがあればいつでもSlackで相談できます。"
 msgstr ""
-
-#: ../../source/our_approach.md:4
-msgid "Slack botで諸々を自動化"
-msgstr ""
-
-#: ../../source/our_approach.md:5
-msgid "コミュニケーションはSlackとZoomでオンラインで行う"
-msgstr ""
+"Once a Python Boot Camp is organized, a core staff member is always assigned to support the local staff."
+"Local staff can consult with Slack at any time if they have any problems in preparing for or organizing the event."
 
 #: ../../source/our_approach.md:6
-msgid "オリジナルグッズの作成"
+msgid "必要なタスクはすべてマニュアル化"
+msgstr "All necessary tasks are manual"
+
+#: ../../source/our_approach.md:7
+msgid "現地スタッフが行うタスクは以下のマニュアルとしてまとめられています。"
+msgstr "Tasks to be performed by local staff are summarized in the following manual"
+
+#: ../../source/our_approach.md:9
+msgid "<https://pycamp.pycon.jp/organize/index.html>"
 msgstr ""
+
+#: ../../source/our_approach.md:11
+msgid "また、タスク管理にはJIRAを採用していて、いつまでに何をすればいいか明示しています。"
+msgstr "We also employ JIRA for task management, which clearly indicates what needs to be done by when."
+
+#: ../../source/our_approach.md:18
+msgid "JIRAの画面"
+msgstr "JIRA"
+
+#: ../../source/our_approach.md:21
+msgid "Slack botで諸々を自動化"
+msgstr "Automate everything with Slack bot"
+
+#: ../../source/our_approach.md:22
+msgid "イベント準備に関する諸々のタスクをSlack botで自動化しています。"
+msgstr "We use a Slack bot to automate various tasks related to event preparation."
+
+#: ../../source/our_approach.md:24
+msgid "JIRAタスクを作成"
+msgstr "Create JIRA Tasks"
+
+#: ../../source/our_approach.md:25
+msgid ""
+"JIRAタスクは毎回必要なタスクが決まっていますが、数が多くて手動で作るのは手間がかかるので、 Slack "
+"botですべて作成してくれるようになっています。"
+msgstr "JIRA tasks are required every time, but there are so many that it is time-consuming to create them manually, so the Slack bot creates all of them for you."
+
+#: ../../source/our_approach.md:33
+msgid "Slack bot経由でJIRAタスクを作成"
+msgstr "Create JIRA task via Slack bot"
+
+#: ../../source/our_approach.md:36
+msgid "イベント用のロゴを作成"
+msgstr "Create a logo for the event"
+
+#: ../../source/our_approach.md:37
+msgid "イベント用のロゴの作成もSlack botで作れます。"
+msgstr "You can also use the Slack bot to create a logo for the event."
+
+#: ../../source/our_approach.md:44
+msgid "Slack bot経由でイベント用のロゴを作成"
+msgstr "Create logo for event via Slack bot"
+
+#: ../../source/our_approach.md:47
+msgid "コマンドを実行すると、以下のように開催地域名を埋め込んだロゴを作成してくれます。"
+msgstr "The command will create a logo with the name of the host region embedded as shown below."
+
+#: ../../source/our_approach.md:54
+msgid "作成されたイベント用のロゴ"
+msgstr "Logo for event created"
+
+#: ../../source/our_approach.md:57
+msgid "コミュニケーションはSlackとZoomでオンラインで行う"
+msgstr "Communication is online via Slack and Zoom"
+
+#: ../../source/our_approach.md:58
+msgid "Python Boot Campの関係者はそれぞれ別の都道府県に在住している場合が多いので、コミュニケーションは基本的にオンライン上で行います。"
+msgstr "Since the people involved in Python Boot Camps often reside in different prefectures, communication is basically done online."
+
+#: ../../source/our_approach.md:60
+msgid ""
+"非同期で行えるコミュニケーションはSlack、 "
+"事前ミーティングや開催後の振り返りミーティングなど関係者が一度に集まる必要があるミーティングはZoomを使います。"
+msgstr ""
+"Slack is for asynchronous communication,"
+"Zoom is used for meetings that require all parties to gather at once, such as pre-meetings and post-meeting review meetings."
+
+#: ../../source/our_approach.md:63
+msgid "コロナ禍でも活動を止めない工夫"
+msgstr "How to continue activities after COVID-19 occurs"
+
+#: ../../source/our_approach.md:64
+msgid ""
+"2019年12月ごろに始まったコロナ禍は世界中のコミュニティの活動に大きな影響を与えました。 Python Boot "
+"Campもその例に漏れず、2019〜2021年の開催回数を見ると、コロナ禍でほぼ開催が止まっている状況がわかります。"
+msgstr ""
+"COVID-19, which began around December 2019, has had a significant impact on the activities of communities around the world."
+"Python Boot Camp is no exception, and a look at the number of times it has been held from 2019 to 2021 shows that it has almost come to a halt due to COVID-19."
+
+#: ../../source/our_approach.md:67
+msgid "2019年: 10回"
+msgstr "2019: 10 times"
+
+#: ../../source/our_approach.md:68
+msgid "2020年: 1回"
+msgstr "2020: 1 time"
+
+#: ../../source/our_approach.md:69
+msgid "2021年: 1回"
+msgstr "2021: 1 time"
+
+#: ../../source/our_approach.md:71
+msgid ""
+"表に見える活動が止まってしまうことでコミュニティの存在感が薄れてしまうことを私たちは心配していました。 "
+"そこで、私たちはオンラインでできる範囲の活動をやっていこうと考え、以下について取り組んできました。"
+msgstr ""
+"We were concerned that the community's presence would diminish as outwardly visible activities ceased."
+"So we decided to do as much as we could online and have been working on the following"
+
+#: ../../source/our_approach.md:74
+msgid "過去回の現地スタッフにインタビュー"
+msgstr "Interviews with local staff from past editions"
+
+#: ../../source/our_approach.md:75
+msgid ""
+"Python Boot Campを開催した人たちがコミュニティ活動を楽しんでいる様子を知ってもらいたいという意図で、 "
+"過去回の現地スタッフにオンラインでインタビューを行いました。 近況について話してもらった内容を[PyCon JP "
+"Blog](https://pyconjp.blogspot.com/)に公開しています。"
+msgstr ""
+"The intention was to let the Python Boot Camp organizers know how much they enjoy community activities, "
+"We conducted online interviews with local staff from past camps to get an idea of how they are enjoying "
+"the community activities. The interviews are posted on the [PyCon JP Blog](https://pyconjp.blogspot.com/)."
+
+#: ../../source/our_approach.md:79
+msgid "記事一覧"
+msgstr "Article List"
+
+#: ../../source/our_approach.md:83
+msgid "地域名"
+msgstr "Local Name"
+
+#: ../../source/our_approach.md:84
+msgid "コミュニティ名"
+msgstr "Community Name"
+
+#: ../../source/our_approach.md:85
+msgid "記事URL"
+msgstr "Article URL"
+
+#: ../../source/our_approach.md:86
+msgid "山梨"
+msgstr "Yamanashi"
+
+#: ../../source/our_approach.md:87
+msgid "shingen.py"
+msgstr ""
+
+#: ../../source/our_approach.md:88
+msgid ""
+"[Python Boot Campその後 ― Shingen.py](https://pyconjp.blogspot.com/2020/12"
+"/after-pycamp-shingen-py.html)"
+msgstr ""
+
+#: ../../source/our_approach.md:89
+msgid "香川"
+msgstr "Kagawa"
+
+#: ../../source/our_approach.md:90
+msgid "UDONPy"
+msgstr ""
+
+#: ../../source/our_approach.md:91
+msgid ""
+"[Python Boot Campその後 ― UDONPy](https://pyconjp.blogspot.com/2020/12"
+"/after-pycamp-udonpy.html)"
+msgstr ""
+
+#: ../../source/our_approach.md:92
+msgid "神奈川"
+msgstr "Kanagawa"
+
+#: ../../source/our_approach.md:93
+msgid "Shonan.py"
+msgstr ""
+
+#: ../../source/our_approach.md:94
+msgid ""
+"[Python Boot Campその後 ― Shonan.py](https://pyconjp.blogspot.com/2020/11"
+"/after-pycamp-shonan-py.html.html)"
+msgstr ""
+
+#: ../../source/our_approach.md:95
+msgid "広島"
+msgstr "Hiroshima"
+
+#: ../../source/our_approach.md:96
+msgid "すごい広島 IT初心者の会"
+msgstr ""
+
+#: ../../source/our_approach.md:98
+msgid "（旧: すごい広島 with Python）"
+msgstr ""
+
+#: ../../source/our_approach.md:99
+msgid ""
+"[Python Boot Campその後 ― すごい広島 with "
+"Python](https://pyconjp.blogspot.com/2020/09/after-pycamp-sugoi-"
+"hiroshima-with-python.html)"
+msgstr ""
+
+#: ../../source/our_approach.md:100
+msgid "岡山"
+msgstr "Okayama"
+
+#: ../../source/our_approach.md:101
+msgid "岡山Python勉強会"
+msgstr ""
+
+#: ../../source/our_approach.md:102
+msgid ""
+"[Python Boot Campその後 ― 岡山Python勉強会](https://pyconjp.blogspot.com/2020/08"
+"/after-pycamp-okayama-python-benkyokai.html)"
+msgstr ""
+
+#: ../../source/our_approach.md:103
+msgid "岐阜"
+msgstr "Gifu"
+
+#: ../../source/our_approach.md:104
+msgid "飛騨高山Pythonの会"
+msgstr ""
+
+#: ../../source/our_approach.md:105
+msgid ""
+"[Python Boot Campその後 ― 飛騨高山Pythonの会](https://pyconjp.blogspot.com/2020/06"
+"/after-pycamp-hidatakayama-python-kai.html)"
+msgstr ""
+
+#: ../../source/our_approach.md:108
+msgid "Python Boot Camp オンライン相談会を開催"
+msgstr "Python Boot Camp Online Consultation"
+
+#: ../../source/our_approach.md:109
+msgid ""
+"Python Boot Campに興味があるがコロナ禍のため開催をためらっている人のために、オンラインでPython Boot "
+"Campについて知ってもらう機会を提供しようと考えました。 "
+"[オープンソースカンファレンス](https://www.ospn.jp/)でコアスタッフや過去回の現地スタッフが登壇し、イベントの魅力についてアピールしました。"
+msgstr ""
+"For those who are interested in attending a Python Boot Camp but are hesitant to do so due to COVID-19, "
+"we thought we would provide an opportunity to learn about the Python Boot Camp online."
+"Core staff and local staff from past editions of the [Open Source Conference](https://www.ospn.jp/) took "
+"the stage to promote the appeal of the event."
+
+#: ../../source/our_approach.md:112
+msgid "登壇の様子は以下YouTubeで動画が公開されています。"
+msgstr "A video of the speech is available on YouTube below."
+
+#: ../../source/our_approach.md:118
+msgid "オリジナルグッズの作成"
+msgstr "Creation of original goods"
+
+#: ../../source/our_approach.md:120
+msgid "ステッカー"
+msgstr "Sticker"
+
+#: ../../source/our_approach.md:121
+msgid "Python Boot Campの参加者、TAには、イベントに参加した証としてPython Boot Campステッカーを渡しています。"
+msgstr "Python Boot Camp participants and TAs receive a Python Boot Camp sticker as proof of their participation in the event."
+
+#: ../../source/our_approach.md:128
+msgid "Python Boot Campステッカー"
+msgstr "Python Boot Camp Stickers"
+
+#: ../../source/our_approach.md:131
+msgid "Tシャツ"
+msgstr "T-shirt"
+
+#: ../../source/our_approach.md:132
+msgid ""
+"Python Boot Campの開催をサポートしてくれた現地スタッフ、TA、講師に感謝の意を込めてオリジナルTシャツをプレゼントしています。 "
+"TA、現地スタッフは2回以上参加してくれた人のみが対象です。"
+msgstr ""
+"Original T-shirts are given away as a token of our appreciation to the local staff, TAs, and instructors "
+"for their support in organizing the Python Boot Camp."
+"TAs and local staff are only eligible for those who have participated at least twice."
+
+
+#: ../../source/our_approach.md:135
+msgid ""
+"PyCon JP開催時には今までの開催に関わった人たちが同じTシャツを来て集まって、同窓会のように盛り上がっています。 "
+"おそらく今日もこのTシャツを着ている人がいるはずです！"
+msgstr ""
+"When PyCon JP is held, people who have been involved in previous events gather together in the same T-shirts, and it's like a reunion."
+"Perhaps someone is wearing this T-shirt today!"
+
+#: ../../source/our_approach.md:143
+msgid "Python Boot CampTシャツ"
+msgstr "Python Boot Camp T-Shirt"
 

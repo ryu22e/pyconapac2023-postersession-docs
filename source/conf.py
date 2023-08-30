@@ -36,3 +36,5 @@ html_extra_path = [
 
 locale_dirs = ['locale/']
 gettext_compact = False
+
+html_css_files = ['custom.css']

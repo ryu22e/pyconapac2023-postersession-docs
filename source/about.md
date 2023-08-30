@@ -36,7 +36,6 @@ PyCon JPでは毎年チュートリアルを開催していますが、東京で
 ```{mermaid} about/pycamp_survey1.mmd
 :align: center
 :caption: Python Boot Camp参加者アンケート「Python経験について」
-:zoom:
 ```
 
 開催後のアンケートを見ると、ほとんどの参加者がチュートリアルに満足していることがわかります。
@@ -44,7 +43,6 @@ PyCon JPでは毎年チュートリアルを開催していますが、東京で
 ```{mermaid} about/pycamp_survey2.mmd
 :align: center
 :caption: Python Boot Camp参加者アンケート「チュートリアルの内容について」
-:zoom:
 ```
 
 ## Python Boot Campに関わる人たち
