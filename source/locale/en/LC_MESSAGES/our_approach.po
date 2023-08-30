@@ -37,7 +37,7 @@ msgstr ""
 
 #: ../../source/our_approach.md:6
 msgid "必要なタスクはすべてマニュアル化"
-msgstr "All necessary tasks are manual"
+msgstr "Manuals have been created for all necessary tasks"
 
 #: ../../source/our_approach.md:7
 msgid "現地スタッフが行うタスクは以下のマニュアルとしてまとめられています。"
