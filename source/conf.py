@@ -38,3 +38,6 @@ locale_dirs = ['locale/']
 gettext_compact = False
 
 html_css_files = ['custom.css']
+
+mermaid_cmd = './node_modules/.bin/mmdc'
+mermaid_output_format = 'svg'
