@@ -1,0 +1,74 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Ryuji Tsutsui
+# This file is distributed under the same license as the Python Boot Campの紹介
+# - あなたの街で開催しませんか? package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python Boot Campの紹介 - あなたの街で開催しませんか? \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-05 22:03+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/faq.md:1
+msgid "よくある質問"
+msgstr ""
+
+#: ../../source/faq.md:2
+msgid "Q. 現地スタッフって何をやるの?"
+msgstr ""
+
+#: ../../source/faq.md:3
+msgid "A. 最初にやってもらいたいのは以下の2点です。"
+msgstr ""
+
+#: ../../source/faq.md:5
+msgid "開催候補日の選定"
+msgstr ""
+
+#: ../../source/faq.md:6
+msgid "会場確保"
+msgstr ""
+
+#: ../../source/faq.md:8
+msgid "上記が決まったらコアスタッフが派遣する講師の調整を行い、講師が決まったら開催決定です。 開催までに必要な準備期間は約1ヶ月と考えてください。"
+msgstr ""
+
+#: ../../source/faq.md:11
+msgid "開催決定後はは宣伝活動、当日用のおやつ購入、当日の受付や司会進行などいくつかのタスクがありますが、以下のマニュアルを用意していますので、これに従ってもらえばOKです。"
+msgstr ""
+
+#: ../../source/faq.md:13
+msgid "<https://pycamp.pycon.jp/organize/1_manual.html>"
+msgstr ""
+
+#: ../../source/faq.md:15
+msgid "また、JIRAを使って各タスクの管理を行います。期限に間に合わなさそうなタスクはコアスタッフの方でチェックして現地スタッフに確認を取りますので、あまり心配しなくても大丈夫です。"
+msgstr ""
+
+#: ../../source/faq.md:17
+msgid "Q. 開催しても参加者が集まるかどうか不安"
+msgstr ""
+
+#: ../../source/faq.md:18 ../../source/faq.md:21 ../../source/faq.md:24
+msgid "TODO アンサーを書く"
+msgstr ""
+
+#: ../../source/faq.md:20
+msgid "Q. 会場はどんな場所がいいの？"
+msgstr ""
+
+#: ../../source/faq.md:23
+msgid "Q. 経費精算できる必要経費とはどんなもの？"
+msgstr ""
+
