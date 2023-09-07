@@ -1,0 +1,174 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2023, Ryuji Tsutsui
+# This file is distributed under the same license as the Python Boot Campの紹介
+# - あなたの街で開催しませんか? package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Python Boot Campの紹介 - あなたの街で開催しませんか? \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-06 21:59+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/1_about.md:1
+msgid "Python Boot Campとは何か？"
+msgstr ""
+
+#: ../../source/1_about.md:2
+msgid "Python Boot Camp（略称: PyCamp）は以下の目的で活動するPythonチュートリアルイベントです。"
+msgstr ""
+
+#: ../../source/1_about.md:4
+msgid "日本各地でのPythonを盛りあげたい"
+msgstr ""
+
+#: ../../source/1_about.md:5
+msgid "各地のPythonistaとの連携強化"
+msgstr ""
+
+#: ../../source/1_about.md:6
+msgid "ゆくゆくは地域PyConの実施"
+msgstr ""
+
+#: ../../source/1_about.md:8
+msgid "イベントの背景"
+msgstr ""
+
+#: ../../source/1_about.md:9
+msgid ""
+"PyCon JPでは毎年チュートリアルを開催していますが、東京で開催しているため、地方在住の人は参加しにくい問題がありました。 "
+"そこで、日本全国の人たちにPythonについて学ぶ機会を提供しようということで、「Python Boot Camp」が始まりました。"
+msgstr ""
+
+#: ../../source/1_about.md:12
+msgid "チュートリアルはどんな内容？"
+msgstr ""
+
+#: ../../source/1_about.md:13
+msgid ""
+"13:00〜17:00の間、Pythonの基礎を学びます。実際にコードを書いて学習の成果を実感してもらえるようにしています。 "
+"また、この講義だけで学習が終わらないように、次のステップに進むための情報収集方法についても紹介します。"
+msgstr ""
+
+#: ../../source/1_about.md:21
+msgid "チュートリアルの様子"
+msgstr ""
+
+#: ../../source/1_about.md:24
+msgid "テキストは以下に公開しています。"
+msgstr ""
+
+#: ../../source/1_about.md:26
+msgid "<https://pycamp.pycon.jp/textbook/index.html>"
+msgstr ""
+
+#: ../../source/1_about.md:28
+msgid "テキストのライセンスはCC-BY 3.0です。改善案があれば以下GitHubリポジトリにPRを送ってください！"
+msgstr ""
+
+#: ../../source/1_about.md:30
+msgid "<https://github.com/pyconjp/pycamp.pycon.jp>"
+msgstr ""
+
+#: ../../source/1_about.md:32
+msgid "参加者アンケートの結果"
+msgstr ""
+
+#: ../../source/1_about.md:34
+msgid "参加登録時のアンケートを見ると、Python Boot Campの参加者は60％の参加者がPythonをまったく使ったことがない人たちです。"
+msgstr ""
+
+#: ../../source/1_about.md:39
+msgid "Python Boot Camp参加者アンケート「Python経験について」"
+msgstr ""
+
+#: ../../source/1_about.md:41
+msgid "開催後のアンケートを見ると、ほとんどの参加者がチュートリアルに満足していることがわかります。"
+msgstr ""
+
+#: ../../source/1_about.md:46
+msgid "Python Boot Camp参加者アンケート「チュートリアルの内容について」"
+msgstr ""
+
+#: ../../source/1_about.md:48
+msgid "Python Boot Campに関わる人たち"
+msgstr ""
+
+#: ../../source/1_about.md:49
+msgid ""
+"現地スタッフ: イベントの主催者。「自分の街でPython Boot "
+"Campを開催したい」と思った人が[専用フォーム](https://docs.google.com/forms/d/e"
+"/1FAIpQLSedZskvqmwH_cvwOZecI10PA3KX5d-Ui-"
+"74aZro_cvCcTZLMw/viewform)から申し込むことで現地スタッフになれます"
+msgstr ""
+
+#: ../../source/1_about.md:50
+msgid "コアスタッフ: 現地スタッフのサポートをするスタッフ"
+msgstr ""
+
+#: ../../source/1_about.md:51
+msgid "講師: 当日の講義の説明、進行をする人。一般社団法人PyCon JP Associationから派遣します"
+msgstr ""
+
+#: ../../source/1_about.md:52
+msgid "TA: イベント当日に不明点がある参加者をサポートする人"
+msgstr ""
+
+#: ../../source/1_about.md:54
+msgid "Python Boot Camp開催後に発足したPythonコミュニティ"
+msgstr ""
+
+#: ../../source/1_about.md:56
+msgid "[栃木Pythonの会](https://tochipy.connpass.com/)（栃木）"
+msgstr ""
+
+#: ../../source/1_about.md:57
+msgid "[すごい広島 IT初心者の会](https://great-h.connpass.com/)（広島）"
+msgstr ""
+
+#: ../../source/1_about.md:58
+msgid "[PyCon Kyushu](https://kyushu.pycon.jp/2024/)（九州全域）"
+msgstr ""
+
+#: ../../source/1_about.md:59
+msgid "[PyCon mini Kumamoto](http://kumamoto.pycon.jp/)（熊本）"
+msgstr ""
+
+#: ../../source/1_about.md:60
+msgid "[shingen.py](https://shingenpy.connpass.com/)（山梨）"
+msgstr ""
+
+#: ../../source/1_about.md:61
+msgid "[大阪Pythonの会](https://osakapython.connpass.com/)(大阪）"
+msgstr ""
+
+#: ../../source/1_about.md:62
+msgid "[Unagi.py](https://unagi-py.connpass.com/)（静岡）"
+msgstr ""
+
+#: ../../source/1_about.md:63
+msgid "[UDONPy](https://udonpy.connpass.com/)（香川）"
+msgstr ""
+
+#: ../../source/1_about.md:64
+msgid "[PyEhime](https://pyehime.connpass.com/)（愛媛）"
+msgstr ""
+
+#: ../../source/1_about.md:65
+msgid "[飛騨高山Pythonの会](https://hida-python.connpass.com/)（岐阜）"
+msgstr ""
+
+#: ../../source/1_about.md:66
+msgid "[Shonan.py](https://shonan-py.connpass.com/)（神奈川）"
+msgstr ""
+
