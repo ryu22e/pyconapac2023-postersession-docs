@@ -11,11 +11,3 @@ Welcome to Python Boot Campの紹介 - あなたの街で開催しませんか?'
    :glob:
 
    *
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
