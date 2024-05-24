@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ryu22e/pyconapac2023-postersession-docs#readme",
   "dependencies": {
-    "@mermaid-js/mermaid-cli": "^10.9.0"
+    "@mermaid-js/mermaid-cli": "^10.9.1"
   }
 }
