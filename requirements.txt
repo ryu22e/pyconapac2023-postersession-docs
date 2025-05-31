@@ -16,7 +16,7 @@ packaging==25.0
 Pygments==2.19.1
 PyYAML==6.0.2
 requests==2.32.3
-snowballstemmer==2.2.0
+snowballstemmer==3.0.1
 Sphinx==7.3.7
 sphinx-intl==2.2.0
 sphinx-rtd-theme==2.0.0
