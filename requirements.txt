@@ -15,7 +15,7 @@ myst-parser==3.0.1
 packaging==26.2
 Pygments==2.20.0
 PyYAML==6.0.3
-requests==2.33.1
+requests==2.34.2
 snowballstemmer==3.0.1
 Sphinx==7.3.7
 sphinx-intl==2.3.2
